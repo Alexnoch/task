@@ -354,15 +354,15 @@ h6 {
 
 @font-face {
     font-family: "Gilroy-Medium";
-    src: url("/fonts/gilroy-medium.ttf") format("TrueType");
+    src: url("../fonts/gilroy-medium.ttf") format("TrueType");
 }
 
 @font-face {
     font-family: "Gilroy-SemiBold";
-    src: url("/fonts/gilroy-semibold.ttf") format("TrueType");
+    src: url("../fonts/gilroy-semibold.ttf") format("TrueType");
 }
 
 @font-face {
     font-family: "Gilroy-Black";
-    src: url("/fonts/gilroy-black.ttf") format("TrueType");
+    src: url("../fonts/gilroy-black.ttf") format("TrueType");
 }
